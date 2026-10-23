@@ -15,7 +15,7 @@ I can work across:
 - Vulnerability Assessment (CVE-based)
 - Solved 50+ cybersecurity labs on Hackviser platform and many real world scenarios simulating real world attacks.
 - SOC Operations & Incident Response
-- SIEM (Splunk / ELK concepts)
+- SIEM (Wazuh / ELK concepts)
 - Network Administration (Routing, Switching, VLANs)
 - Network Security
 ---
@@ -27,12 +27,7 @@ I can work across:
 ## 🎯 Focus
 Pentesting | SOC | Incident Response | Network Security | Infrastructure Defense
 ---
-## 🚧 Projects (In Progress)
-- **Hydra SOC (Mini Security Operations Center)**  
-  We are building a SOC simulation environment with SIEM integration (Splunk/ELK), real-time attack detection, automated incident response using Python, and firewall-based IP blocking. Includes Flask dashboard for monitoring security alerts.
-  
-- **Web Security & PKI Lab**  
-  I'm developing a secure web communication lab to simulate Man In The Middle (MITM) attacks, analyze HTTP vs HTTPS traffic, and evaluate PKI-based encryption and certificate trust models.
+## 🚧 Projects
   
 ## 📫 Connect
-LinkedIn: linkedin.com/in/razan-salah-28b76b349 | Gmail: rzansalah78@gmail.com 
+LinkedIn: linkedin.com/in/razan-salah-28b76b349 | Gmail: rzansalah78@gmail.com | +962798751644
